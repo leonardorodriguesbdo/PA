@@ -8,6 +8,7 @@ package exemplosjava;
 /**
  *
  * @author Leonardo
+ * Declaração de arrays
  */
 public class Arranjo {
     public static void main(String[] args){
